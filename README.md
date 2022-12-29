@@ -25,7 +25,7 @@ A passionate full stack web developer from India
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/navneet-burman-b4b9181aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/navneet-burman-b4b9181aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Navneet Burman" height="30" width="40" /></a>
 </p>
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
@@ -42,8 +42,8 @@ A passionate full stack web developer from India
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=gold"  align="center" alt="material-ui"/>
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=teal"  align="center" alt="react-router" />
 <br/>
 <br/>
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
@@ -62,7 +62,7 @@ A passionate full stack web developer from India
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
 <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="anku"/>
    <br/>
 <br/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
@@ -71,9 +71,9 @@ A passionate full stack web developer from India
 
 <br/>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<h2 align="center">📊 My GitHub Stats </h2>
+<h2 align="center">📊 My GitHub Statastics </h2>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Navneetcode1&theme=github-dark"
        alt="stats" /></a>
