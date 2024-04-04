@@ -12,8 +12,7 @@ A passionate full stack web developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
 <h2 align="center">💫  About Me </h2>
- 🔭 I’m currently preparing for placements!. <br><br>
- 🌱 I’m currently learning MERN Stack.<br><br>
+
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1KAaJYILjnW1l-Z0DOrOfGXGVl5GqMddC/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://navneetcode1.github.io/">Portfolio</a><br><br>
